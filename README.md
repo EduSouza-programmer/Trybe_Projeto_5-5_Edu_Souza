@@ -58,7 +58,7 @@ Você deve criar um site que permita o upload de uma imagem e a inserção de um
 - <p><a href="#7"> :pushpin: 7.</a> Tenha um conjunto de quatro imagens pré prontas de memes famosos para o usuário escolher. Mostre miniaturas das imagens e, mediante clique do usuário, essa imagem deve aparecer dentro da moldura do elemento de container.</p>
 
 
-#### Concluído :rocket:
+### Concluído :rocket:
 
 Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/Trybe_Projeto_5-5_Edu_Souza/).
 
