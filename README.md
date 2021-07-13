@@ -42,7 +42,7 @@ Você deve criar um site que permita o upload de uma imagem e a inserção de um
 #### Screenshots:
 
 <p align=center >
-  <img height="200px"  src="./img/home_desktop.png"> &nbsp;
+  <img height="200px"  src="./img/home_desktop1.png"> &nbsp;
 </p>
 
 ## :postbox: Entrega
