@@ -34,17 +34,17 @@
 
 ## :rocket: Sobre o projeto
 
-#### Playground functions
+#### Meme Generator
 
 Neste projeto, você vai desenvolver um gerador de memes!
 Você deve criar um site que permita o upload de uma imagem e a inserção de um texto sobre ela, estilizado de forma apropriada.
 
-<!-- #### Screenshots:
+#### Screenshots:
 
 <p align=center >
   <img height="210px"  src="./img/home_desktop.png"> &nbsp;
   <img height="235px" src="./img/mobile.png">
-</p> -->
+</p>
 
 ## :postbox: Entrega
 
@@ -59,7 +59,7 @@ Você deve criar um site que permita o upload de uma imagem e a inserção de um
 - <p><a href="#7"> :pushpin: 7.</a> Tenha um conjunto de quatro imagens pré prontas de memes famosos para o usuário escolher. Mostre miniaturas das imagens e, mediante clique do usuário, essa imagem deve aparecer dentro da moldura do elemento de container.</p>
 
 
-#### Concluido :rocket:
+#### Concluído :rocket:
 
 Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_com_sass-origamid/).
 
