@@ -6,6 +6,12 @@
 }
 
 body {
+ display: flex;
+ align-items: center;
+ height: 100vh;
+}
+
+.wrapper {
   max-width: 1180px;
   text-align: center;
   margin: 0 auto;
