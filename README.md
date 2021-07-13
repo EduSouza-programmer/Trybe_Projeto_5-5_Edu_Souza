@@ -42,7 +42,7 @@ Você deve criar um site que permita o upload de uma imagem e a inserção de um
 #### Screenshots:
 
 <p align=center >
-  <img height="400px"  src="./img/home_desktop.png"> &nbsp;
+  <img height="200px"  src="./img/home_desktop.png"> &nbsp;
 </p>
 
 ## :postbox: Entrega
@@ -60,7 +60,7 @@ Você deve criar um site que permita o upload de uma imagem e a inserção de um
 
 #### Concluído :rocket:
 
-Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_com_sass-origamid/).
+Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/Trybe_Projeto_5-5_Edu_Souza/).
 
 #
 ## :unlock: Licença
