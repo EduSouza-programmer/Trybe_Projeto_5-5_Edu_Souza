@@ -34,16 +34,16 @@ const insertDefaultImage = (event) => {
   const eventOriginById = event.target.id;
   switch (eventOriginById) {
     case "meme-1":
-      memeImageImg.src = "/imgs/meme1.png"
+      memeImageImg.src = "img/meme1.png"
       break;
     case "meme-2":
-      memeImageImg.src = "/imgs/meme2.png"
+      memeImageImg.src = "img/meme2.png"
       break;
     case "meme-3":
-      memeImageImg.src = "/imgs/meme3.png"
+      memeImageImg.src = "img/meme3.png"
       break;
     case "meme-4":
-      memeImageImg.src = "/imgs/meme4.png"
+      memeImageImg.src = "img/meme4.png"
       break;
   }
 }
