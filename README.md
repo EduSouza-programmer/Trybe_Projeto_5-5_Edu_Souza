@@ -47,7 +47,7 @@ Você deve criar um site que permita o upload de uma imagem e a inserção de um
 
 ## :postbox: Entrega
 
-### :clipboard: Requisitos
+#### :clipboard: Requisitos
 
 - <p><a href="#1"> :pushpin: 1.</a> O site deve possuir uma caixa de texto com a qual quem usa pode interagir para inserir texto em cima da imagem escolhida.</p>
 - <p><a href="#2"> :pushpin: 2.</a> O site deve permitir que quem usa faça upload de uma imagem de seu computador.</p>
